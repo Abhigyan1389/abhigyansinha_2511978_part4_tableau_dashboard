@@ -1,0 +1,188 @@
+# Dashboard Story — Retail Sales Performance
+## A leadership briefing on what the data says and what to do next
+
+**Audience:** Executive leadership and regional directors
+**Period:** January 2024 – December 2025
+**Data source:** `dashboard_sales_data.xlsx` — 4,200 orders across 20 states, 4 regions, 3 categories
+**Prepared by:** Business Analysis Team | June 2026
+
+---
+
+## Executive Summary
+
+The business is growing. Total sales reached **₹21.70 crore** over the two-year period with a net profit of **₹3.33 crore** and an overall profit margin of **15.3%**. Year-on-year, revenue increased by **4.3%** from ₹10.62 crore in 2024 to ₹11.08 crore in 2025.
+
+But growth is carrying hidden strain. The sales line moves without a clear seasonal engine — month-to-month swings of up to ₹4.5 crore are driven by factors the current data cannot yet explain. The South region is driving the estate while the West quietly underperforms. Technology is subsidising the rest of the business: it generates 84% of total profit despite being one of three categories. Furniture absorbs nearly a quarter of total revenue but returns only a fraction of its fair share of profit, with a return rate more than double any other category. And Standard Class shipping — used for 58% of all orders — is delivering 27% of those orders outside the expected timeframe.
+
+None of these are existential problems today. But each will compound if not addressed.
+
+---
+
+## 1. What is performing well
+
+### The South region is the commercial engine
+
+The South accounts for **₹6.47 crore (29.8%)** of total sales and delivers four of the top five revenue-generating states: Telangana (₹1.49 Cr), Tamil Nadu (₹1.29 Cr), Karnataka (₹1.25 Cr), and Kerala (₹1.25 Cr). Karnataka records a 16.6% margin — above the estate average of 15.3%.
+
+The connection to the category chart matters here. South-region customers skew toward Technology purchases, which carry the highest margins in the estate (18.2%). A region that is buying the right things will naturally produce both the highest revenue and the most valuable margins.
+
+### Technology is the profit engine that makes everything else possible
+
+Technology generates **₹15.39 crore in sales** and **₹2.80 crore in profit** — 70.9% of total revenue and 84.2% of total profit from a single category. Its four sub-categories — Copiers, Accessories, Phones, and Machines — all sustain margins between 18.0% and 18.5%. No Technology sub-category is loss-making or close to it.
+
+This connects back to geography. Technology's dominance is strongest in the South and East, which helps explain why the East achieves the highest regional margin (15.6%) despite ranking joint-last on revenue volume. East customers are buying well, even if there are fewer of them.
+
+### Same Day delivery is setting the service standard
+
+Same Day shipping handles only 5.7% of orders but achieves a **2.5% return rate** — the lowest of any shipping mode — and delivers 98% of its orders within two days. Customers who receive orders quickly are significantly less likely to return them. This is a benchmark the rest of the shipping estate is not matching.
+
+### The Organic channel is the most efficient revenue source
+
+The Organic channel accounts for **₹8.88 crore (40.9%)** of total revenue without incurring paid media costs. Referral and Social channels — though smaller in volume — generate the highest revenue per order (₹54,111 and ₹53,261 respectively) and margins above 15.7%. These channels bring higher-quality customers who spend more and return less.
+
+---
+
+## 2. What is underperforming
+
+### Furniture is a structural drag that the headline numbers hide
+
+At ₹5.16 crore in revenue, Furniture looks meaningful. It is not performing like it. Its **6.9% profit margin** is less than half the estate average. Its **7.7% return rate** is more than double Technology's (3.0%). Together these create a compounding problem: Furniture generates thin profit on initial sale and then incurs reverse-logistics costs on 1 in 13 orders.
+
+The sub-category chart sharpens this. Tables and Bookcases record margins of only 5.7% each. Chairs and Furnishings are marginally better at 8.3% and 7.9%. No Furniture sub-category earns above 9%. Compare this to Technology's worst performer — Copiers at 18.0% — and the gap is stark.
+
+Home Office customers buying Furniture return **9.1%** of orders, the single highest rate in the dataset. The product is not meeting expectations in the home environment.
+
+### Standard Class shipping is creating a hidden service quality problem
+
+Standard Class handles 2,435 orders — 58% of all transactions. Of those, **609 arrive in 6–7 days** and a further **45 take 8 or more days**. That is 654 delayed orders — 27% of all Standard Class shipments delivered outside the acceptable window. While the dataset does not provide a direct causal link, the pattern is consistent: faster modes have lower return rates.
+
+### The West region is the weakest performer — and Maharashtra explains most of it
+
+The West generates ₹4.89 crore with the **lowest profit margin (15.1%)** of any region. Maharashtra — the West's largest state — records **14.1% margin**, the lowest of any individual state in the estate. The West's weakness is not spread evenly; it is concentrated in two states that together drag the regional average below where it should be.
+
+### The Paid channel's value is unconfirmed
+
+The Paid channel shows a **gross margin of 15.1%** but this does not deduct media spend. If Paid channel customers cost significant amounts to acquire, the true net margin may be materially lower. The Paid channel may be cannibalising more efficient Organic demand rather than generating genuinely incremental revenue.
+
+---
+
+## 3. What risks are visible
+
+### Single-category concentration risk
+
+Technology generates 84.2% of total profit. If this category faces price compression from online competition, supply chain disruption, or a demand shift, the business has no other category capable of absorbing the impact. Furniture and Office Supplies together generate only 15.8% of profit. This is not a diversified portfolio.
+
+### Furniture's return rate is approaching a strategic threshold
+
+At 7.7% overall and 9.1% for Home Office customers, Furniture returns represent a customer satisfaction signal that the product range, descriptions, or delivery handling are failing a specific segment. At 88 Furniture returns in the observed period, the accumulated cost is meaningful. If the rate continues rising unchecked, it will erode the already-thin Furniture margin into negative territory.
+
+### Discount usage is broad and margin-destructive at high tiers
+
+Orders at 25–30% discount earn an average margin of **7.6%**. Orders at 35% discount average **−4.4% margin** — loss-making. The 35% tier likely represents a deliberate decision. Unless these orders are part of a clearance or strategic win-back programme, they represent unnecessary margin destruction.
+
+### Month-to-month sales volatility is unexplained and unmanaged
+
+Monthly sales swing between ₹6.3 crore (August 2024) and ₹10.9 crore (August 2025) — a range of ₹4.6 crore — with no apparent seasonal pattern. The same month produced both the weakest and strongest performance in consecutive years. This level of variance without an identifiable cause means the business is managing volatility rather than planning around a seasonal structure.
+
+---
+
+## 4. What opportunities are visible
+
+### The East region is the most under-exploited territory
+
+East has the **highest profit margin (15.6%)** of any region, suggesting customers who engage from East are buying the right products at the right price. But East has the **lowest order count (897)** — 313 fewer orders than South. The margin profile tells us East customers deliver value when they engage. Investment in East-facing Organic and Referral channels could add revenue at above-average margin.
+
+**Estimated opportunity:** Adding 135 orders in East at current East AOV (₹54,470) and margin (15.6%) would generate approximately ₹73.5 lakh in additional revenue and ₹11.5 lakh in additional profit.
+
+### Referral and Social channels are underinvested relative to their quality
+
+Referral generates only 392 orders (9.3% of total) but produces the highest revenue per order at ₹54,111. Social runs 584 orders at ₹53,261 per order. Both channels outperform Organic and Paid on per-order quality. A structured referral incentive programme and increased social commerce investment would increase volume through the highest-quality acquisition channels without the cost uncertainty of paid advertising.
+
+### Furniture restructuring — narrow the range, improve the margin
+
+The opportunity is not to exit Furniture but to restructure it. Concentrate the range on Chairs and Furnishings (which, while still thin, are at least twice the margin of Tables and Bookcases). Negotiate better supplier pricing for Tables and Bookcases or remove them. Address the Home Office return rate through improved product descriptions, sizing guides, and packaging. A leaner Furniture range could materially improve category contribution without sacrificing all the revenue.
+
+### Inventory discipline in Technology offers a low-cost margin lever
+
+The four Technology sub-categories sustain margins above 18%. Prioritising stock depth in Copiers, Accessories, Phones, and Machines — before lower-margin lines — protects and grows the profit engine at minimal additional cost. Each 1 percentage point of inventory availability improvement across the estate is associated with approximately ₹3,056 in additional monthly revenue.
+
+---
+
+## 5. Recommended business actions
+
+### Action 1 — Audit and restructure the 35% discount tier (immediate)
+The 64 orders in the highest discount tier are loss-making on average. Before the next sales period, identify who authorised these discounts and whether the strategic intent was achieved. Introduce a margin floor policy: no order approved below 10% gross margin. Implement system controls to flag or block discount applications above 25% without senior approval.
+
+**Expected impact:** Recovering or eliminating the 35% tier on future orders directly recovers approximately ₹6–10 lakh in margin currently given away with no confirmed strategic return.
+
+### Action 2 — Address Standard Class delivery performance (30 days)
+Commission an operational review with the Standard Class fulfilment partner. The focus question: why are 27% of Standard Class orders slow when the contract presumably specifies 3–5 day delivery? Benchmark against First Class metrics. If root cause is carrier performance, renegotiate SLAs or explore a carrier switch for the highest-density Standard Class corridors.
+
+### Action 3 — Review Furniture Tables and Bookcases for range rationalisation (60 days)
+Tables and Bookcases together represent ₹25.4 crore in revenue at a 5.7% margin. Commission a review of supplier cost structure, customer satisfaction data for returns (are Tables disproportionately represented?), and competitor positioning. If margin improvement above 10% is not achievable within 12 months, consider removing these sub-categories and redirecting inventory investment to Technology.
+
+### Action 4 — Grow East-region order volume through targeted investment (90 days)
+Design a targeted commercial programme for East: increase Organic search investment in East-region cities, activate a Referral programme for existing East customers, and ensure Technology stock availability is prioritised for East-region fulfilment. Target 15% order volume growth in East within 12 months.
+
+### Action 5 — Evaluate the Paid channel true ROI (60 days)
+Request media spend data from the marketing team. Calculate true net margin for Paid = gross margin minus acquisition cost per order. If true net margin is below 10%, the Paid channel is destroying value while appearing to create it. Compare directly against Organic (zero media cost) and Referral (low, controllable incentive cost).
+
+### Action 6 — Investigate Home Office Furniture returns (60 days)
+Sample 20 return records from the Home Office + Furniture segment to identify the primary reason. Common causes: size mismatch, assembly difficulty, transit damage, description mismatch. Each has a different fix. If the cause is description quality, update all Furniture product pages immediately. If transit damage, review packaging standards for Furniture specifically.
+
+---
+
+## 6. Limitations of the dashboard
+
+Leadership should understand what this dashboard cannot tell them.
+
+**No cost-of-acquisition data.** The Paid channel's gross margin does not deduct media spend. Without this, true channel profitability cannot be compared. This is a significant gap that prevents confident channel investment decisions.
+
+**No store or location-level operational data.** Shipping delays, return rates, and fulfilment performance are visible at the aggregate level but cannot be pinpointed to specific fulfilment centres, carrier routes, or operational processes. The Standard Class delay finding cannot tell us whether it is a single warehouse problem or a network-wide issue.
+
+**Rajasthan appears in both North and West regions.** The geographic data assigns Rajasthan to two different regions (a district-level split). Any Rajasthan-specific analysis will produce misleading totals unless region is always used as a secondary filter alongside state.
+
+**Customer rating data is incomplete.** 32 orders have no rating recorded. More importantly, customer rating shows near-zero correlation with sales (r = −0.03) and was excluded from all revenue and profit models. It should not be used as an operational KPI for sales performance without further validation.
+
+**Association is not causation.** The finding that each 1 percentage point of inventory improvement is associated with ₹3,056 in additional monthly sales is a correlation, not a proven causal relationship. Business pilots at a sample of locations are required before committing estate-wide investment based on this figure.
+
+**24 months of data limits seasonal analysis.** The dataset shows significant month-to-month volatility with no clear seasonal pattern. With only two years of data, it is impossible to distinguish structural demand patterns from year-specific anomalies. A minimum of 36–48 months is required for reliable seasonal decomposition.
+
+---
+
+## 7. Suggested next analysis
+
+**1. Cohort analysis — customer lifetime value by acquisition channel.**
+The current dashboard shows revenue per channel on a per-order basis. It does not show whether Organic, Referral, or Paid customers have different repeat purchase rates or lifetime values. A cohort analysis tracking the same customers across both years would reveal whether Referral's higher AOV reflects a genuinely higher-quality customer or simply larger one-off purchases.
+
+**2. Return reason analysis — structured root-cause investigation.**
+The dataset has a binary return flag but no reason code. Adding a reason code at the point of processing (size/fit, transit damage, description mismatch, changed mind, delivery delay) would transform the return rate from a diagnostic metric into an actionable one. Start with Furniture returns as the highest priority.
+
+**3. Discount authorisation audit — 35% tier investigation.**
+A transactional-level query identifying the authorising salesperson, customer, product, and stated reason for each of the 64 loss-making orders in the 35% discount tier. The cost of this analysis is minimal; the potential margin recovery is significant.
+
+**4. Standard Class delivery performance by corridor.**
+Map delayed Standard Class orders (6+ days) to their origin fulfilment centre, carrier, and destination state. A geographic concentration of delays pointing to one or two corridors indicates a carrier or route issue. A spread across all corridors suggests a capacity or volume-management problem at the national carrier level.
+
+**5. East region growth potential modelling.**
+Commission a market sizing analysis for East-region cities: population density, retail spend per capita, competitor presence, and Technology product penetration rate. This would quantify whether the growth opportunity justifies a dedicated commercial programme and what investment level would achieve a 15–20% order volume increase within 12 months.
+
+**6. Extended dataset for seasonal demand study.**
+Extend the dataset to 36–48 months and incorporate external variables: public holidays by state, regional economic indicators, monsoon season effects on relevant product categories. This would enable a seasonal decomposition model that separates structural demand from noise, allowing the business to plan inventory, staffing, and campaigns against a reliable seasonal baseline.
+
+---
+
+## Closing note for leadership
+
+The single most important message from this data is that the business is not as diversified as its category breadth suggests. Three categories are offered, but one carries the business. Three regions trade, but one leads. Five acquisition channels operate, but one dominates. This concentration reflects a business that has found what works — but it creates fragility.
+
+The six actions in this briefing are designed to reduce that fragility: protect the Technology margin engine, repair the Furniture return problem, grow the under-served East region, ensure the discount and shipping operations are not quietly destroying value that the product mix is creating, and build the analytical capability to answer the questions this dashboard cannot yet resolve.
+
+The data tells us where the business is. Leadership decisions will determine where it goes.
+
+---
+
+*Document prepared by: Business Analysis Team*
+*Project: `part4_tableau_dashboard` — Dashboard Story*
+*Data period: January 2024 – December 2025*
+*Next review: After 12 months of additional data collection (December 2026)*
