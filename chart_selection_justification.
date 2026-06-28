@@ -1,0 +1,25 @@
+Each card covers all five dimensions — here is the logic behind each chart's decisions, kept in plain language.
+Chart 1 — Monthly sales trend (line chart). The line was chosen because sales is a continuous measure over time and the primary question is about
+direction and momentum — not about comparing discrete totals. The y-axis starts at zero deliberately. Truncating it at ₹5 crore would make the August 2024 
+trough look catastrophically deeper than it is, distorting leadership's reading of volatility. The area fill under the line adds a sense of volume without competing 
+with the line itself, kept at 8% opacity so it reads as context rather than data.
+Chart 2 — Regional and state performance (horizontal bar). Horizontal orientation was chosen because region and state names are text that reads naturally
+left-to-right, not top-to-bottom. Sorting descending by sales means the answer to "who is best?" is always at the top — no scanning required. A map was explicitly rejected: 
+four named regions are not geographic polygons, and a choropleth map of India would require correct state boundaries while making bar-length comparison harder. 
+Color uses emphasis rather than rainbow: the top bar is solid blue, the rest are light blue. This encodes "South is the leader" pre-attentively without 
+assigning arbitrary different colors to regions that have no inherent color identity.
+Chart 3 — Category and sub-category profitability (horizontal bar, sorted by profit). Thirteen sub-categories need to be compared on a single profit measure. A treemap 
+was considered and rejected because comparing bar lengths is cognitively more accurate than comparing areas. A pie chart with 13 slices would produce illegible thin 
+wedges for the smaller Office Supplies sub-categories. The horizontal bar sorted by profit descending makes rank and magnitude immediately readable. Color encodes 
+parent category — all Technology sub-categories are the same blue, all Furniture sub-categories the same amber — so color tells you category membership and position 
+tells you rank. Two different dimensions of information, two different visual channels.
+Chart 4 — Customer segment return risk (bar with reference line). The reference line at 4.55% (the estate average) is the design decision that transforms this chart 
+from a ranking into a diagnostic. Without it, the viewer sees three bars of different heights and must decide what counts as "high." With it, the viewer immediately 
+sees that Home Office is above average and the other two are below. Color is semantic — red means above-average risk, amber means near-average, green means below — so 
+the chart answers "which segment has a problem?" before any number is read. Using the same colour for all three bars would have forced the viewer to read and compare 
+numbers rather than receive an immediate visual answer.
+Chart 5 — Shipping delay by mode (stacked bar). The stacked form was chosen specifically because it answers two questions simultaneously: how many orders does each
+mode handle (total bar height) and what proportion of those orders are delayed (internal segment colour). A 100% stacked bar would normalise all bars to the same height, 
+hiding the critical fact that Standard Class handles 2,435 orders versus Same Day's 241 — making both look equally significant. The colour ramp from green to red follows 
+the natural traffic-light convention so the severity of each delay bucket is encoded in the colour itself, not just its label. A viewer can identify the problematic mode
+(Standard Class) and the problematic buckets (amber slow, red very slow) in a single glance without reading any text.
